@@ -1,4 +1,4 @@
-Software Digital Imagem
+Software Digital Image
 ------------------------
 
 Baseado em que?
